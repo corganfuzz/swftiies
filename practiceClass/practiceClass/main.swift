@@ -46,41 +46,7 @@ print ("----EOJ----")
 
 
 
-//var myage:Int = 18
-//var votingAge:Int = 18
-//
-//print ("Enter age: ", terminator: "")
-//
-//myage = Int(readLine()!)!
-//
-//if myage == votingAge
-//{
-//    print ("Qualified to Vote\n")
-//}
 
-//var regHW, hw:Float
-//var pr:Float
-//
-//var OT:Float = 0;
-//
-//var pay:Float
-//
-//print ("Enter Hours worked: ", terminator: "")
-//hw = Float (readLine()!)!
-//print ("Enter pay rate: ", terminator: "")
-//pr = Float (readLine()!)!
-//
-//regHW = hw
-//
-//if hw > 40.00
-//{
-//    OT = hw - 40
-//    regHW = 40
-//}
-//
-//    pay = regHW * pr + OT * pr * 1.5
-//
-//print ("Pay: \(pay)")
 
 
 
